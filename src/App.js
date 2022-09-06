@@ -8,12 +8,13 @@ import './App.css';
 // import Resume from './components/Resume';
 // import FunctionEvent from './components/FunctionEvent';
 // import Functionalcounter from './components/Functionalcounter';
-import Conditionalcomponent from './components/ConditionalComponent';
+// import Conditionalcomponentvariable from './components/ConditionalComponentVariable';
+import Ternarycomponent from './TernaryComponent';
 
 function App() {
   return (
     <div className="App">
-      <Conditionalcomponent/>
+      <Ternarycomponent/>
     </div>
   );
 }
